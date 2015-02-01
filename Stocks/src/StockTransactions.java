@@ -1,3 +1,5 @@
+//OK. Ozgur Aktunc
+
 public class StockTransactions
 {
 	public static void main(String[] args) 
