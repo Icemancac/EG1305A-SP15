@@ -1,5 +1,5 @@
 
-public class diameter {
+public class diameter { //Class name should start with capital letter e.g. Diameter
 	public static void main(String[] args) 
 	{
 		int radius = 5;
