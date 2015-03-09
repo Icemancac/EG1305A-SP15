@@ -1,3 +1,5 @@
+
+//OK. O.Aktunc
 public class Pet {
 	String name;
 	String type;
