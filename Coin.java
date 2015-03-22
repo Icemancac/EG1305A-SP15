@@ -1,3 +1,5 @@
+//OK. O.Aktunc
+
 import java.util.Random;
 
 public class Coin {
