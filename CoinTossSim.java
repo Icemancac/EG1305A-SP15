@@ -1,3 +1,5 @@
+//OK. O.Aktunc
+
 public class CoinTossSim {
 
 	public static void main(String args[]) {
